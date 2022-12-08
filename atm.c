@@ -8,7 +8,7 @@ int main(){
     scanf("%d", &password);
     printf("Enter amount to create account\n");
     scanf("%f", &total_amount);
-    printf("Enter 1 for cheak balance.\nEnter 2 for deposite.\nEnter 3 for withdraw.\nEnter 4 for transfer.\n");
+    printf("Enter 1 for check balance.\nEnter 2 for deposite.\nEnter 3 for withdraw.\nEnter 4 for transfer.\n");
     scanf("%d", &user_input);
     printf("Enter pin\n");
     scanf("%d", &pin);
